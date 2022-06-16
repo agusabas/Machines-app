@@ -8,5 +8,11 @@ Mi primer aplicacion hecha en React JS!
 
 ## Lanzar servidor local
 
-### `npm start`
+<!--sec data-title="Comandos" data-id="OSX_Linux_whoami" data-collapse=true ces-->
+
+
+    > npm start
+    
+
+<!--endsec-->
 
