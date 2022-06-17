@@ -1,6 +1,7 @@
 # React App by Agustin Sabas
 
 Mi primer aplicacion hecha en React JS!
+La siguiente aplicación es el front que recolecta datos de una api.
 
 ## Instalacion
 
